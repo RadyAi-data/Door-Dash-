@@ -26,6 +26,3 @@ Two players navigate a hazardous Floor to reach Boo's Door (Cell 99) with at lea
    git clone [https://github.com/YourUsername/Door-Dash-Game.git](https://github.com/YourUsername/Door-Dash-Game.git)
 
 
-<div align="center">
-<img src="gameplay.jpg" alt="Door Dash Gameplay Board" width="800"/>
-</div>
