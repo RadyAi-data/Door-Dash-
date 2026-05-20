@@ -1,7 +1,4 @@
 # DooR DasH: Scare vs Laugh Touchdown 🚪👹
-<div align="center">
-  <img src="gameplay.jpg" alt="Door Dash Gameplay Board" width="800"/>
-</div>
 
 An interactive, competitive board game built entirely in **Java** and **JavaFX**. Inspired by the Monsters Inc. universe, this project pits "Scarers" against "Laughers" in a strategic race across a dynamic 100-cell grid. 
 
@@ -27,3 +24,7 @@ Two players navigate a hazardous Floor to reach Boo's Door (Cell 99) with at lea
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YourUsername/Door-Dash-Game.git](https://github.com/YourUsername/Door-Dash-Game.git)
+
+   <div align="center">
+  <img src="gameplay.jpg" alt="Door Dash Gameplay Board" width="800"/>
+</div>
