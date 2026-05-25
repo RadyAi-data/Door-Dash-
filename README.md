@@ -23,6 +23,6 @@ Two players navigate a hazardous Floor to reach Boo's Door (Cell 99) with at lea
 ## 🚀 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YourUsername/Door-Dash-Game.git](https://github.com/YourUsername/Door-Dash-Game.git)
+   git clone https://github.com/RadyAi-data/Door-Dash.git
 
 
